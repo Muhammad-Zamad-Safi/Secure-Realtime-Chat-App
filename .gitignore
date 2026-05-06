@@ -1,0 +1,17 @@
+# Node modules
+Frontend/real_chat_app/node_modules/
+Frontend/real_chat_app/.next/
+
+# Python virtual environment
+Backend/venv/
+
+# Environment variables
+.env
+Backend/.env
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
