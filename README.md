@@ -52,28 +52,7 @@ Data in Transit — All traffic is intended to be served over TLS; WebSockets op
 Authentication — JWT tokens with expiry enforce stateless, role-aware access.
 Input Validation — Pydantic schemas sanitize and validate all incoming request data.
 Threat Modeling — Project documentation includes a formal threat model with identified attack vectors and mitigations.
-📂 Project Structure
-secure-chat/
-├── Backend/
-│   ├── HelperFunction/         # Cryptography, JWT utilities, validation logic
-│   ├── PostgresSql/            # SQLAlchemy models and DB connection
-│   ├── route/
-│   │   ├── auth.py             # Registration, login, token endpoints
-│   │   ├── admin.py            # Admin-only management endpoints
-│   │   └── chats.py            # WebSocket + messaging endpoints
-│   └── main.py                 # FastAPI application entry point
-│
-├── Frontend/
-│   └── real_chat_app/
-│       ├── app/                # Next.js App Router pages and layouts
-│       ├── components/         # StatsCards, DataTables, Sidebar, Modals
-│       └── lib/                # API client utilities and type definitions
-│
-└── Documentation/
-    ├── Proposal.pdf         # System design and data flow diagrams
-    └── Security Requirements, Planning, and RiskManagement.pdf        # Threat model and security requirements
-    └── System_Architecture_Diagram.png
-🚀 Getting Started
+
 Prerequisites
 Python 3.9+
 Node.js 18+
