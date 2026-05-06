@@ -163,7 +163,8 @@ The frontend will be available at `http://localhost:3000`.
 
 > _Admin Dashboard — room management, user monitoring, and system logs_
 
-<!-- Add screenshots here once deployed -->
+<!-- Add screenshots here once deployed --><img width="1904" height="831" alt="image" src="https://github.com/user-attachments/assets/1180ff7c-268c-4b3c-8a1e-d189d0a5eb0b" />
+
 _Screenshots coming soon._
 
 ---
@@ -174,22 +175,3 @@ _Screenshots coming soon._
 - [ ] Rate limiting and brute-force protection middleware
 - [ ] Docker Compose for one-command deployment
 - [ ] Automated security testing with OWASP ZAP in CI pipeline
-
----
-
-## 📄 License
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
-
----
-
-## 📧 Contact
-
-**Hassan** — Cybersecurity Student @ GIKI, Pakistan
-Focused on **ML Security** and **Application Security**
-
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Portfolio: [your-portfolio.dev](https://your-portfolio.dev)
-
-> _Open to Summer/Fall 2025 internship opportunities in ML Security and Application Security._
