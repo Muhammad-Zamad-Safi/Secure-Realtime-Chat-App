@@ -84,7 +84,8 @@ npm run dev
 The frontend will be available at http://localhost:3000.
 
 📸 Screenshots
-Admin Dashboard — room management, user monitoring, and system logs
+Admin Dashboard — room management, user monitoring, and system logs<img width="1904" height="831" alt="image" src="https://github.com/user-attachments/assets/a0949da4-fa16-4601-8af0-ad601883cbf7" />
+
 
 imageimageimage
 🔮 Roadmap
